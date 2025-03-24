@@ -3,6 +3,7 @@ import PageTitle from '@/components/PageTitle.vue'
 import AboutMe from '@/components/AboutMe.vue'
 import MesTechnos from '@/components/MesTechnos.vue'
 import MesXp from '@/components/MesXp.vue'
+import MesProjets from '@/components/MesProjets.vue'
 
 </script>
 
@@ -11,7 +12,8 @@ import MesXp from '@/components/MesXp.vue'
         <PageTitle/>
         <AboutMe/>
         <MesTechnos/>
-        <Mesxp/>
+        <MesXp/>
+        <MesProjets/>
     </div>
 </template>
 
