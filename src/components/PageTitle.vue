@@ -12,7 +12,6 @@ import SocialIcon from './SocialIcon.vue'
             <div id="social">
                 <SocialIcon img="linkedin" alt="linkedin" link ="https://www.linkedin.com/in/sonia-messaoudi-60a19776/"/>
                 <SocialIcon img="github" alt="linkedin" link ="https://github.com/messaoudisony/Portfolio-Sonia-Mess"/>
-                <SocialIcon img="gitlab" alt="linkedin" link ="https://gitlab.com//"/>
                 
             </div>
         </div>
@@ -30,6 +29,8 @@ import SocialIcon from './SocialIcon.vue'
     #top-line #profile-img{
         float: left;
         margin-right: 50px;
+        border: 7px solid var(--vt-v-custom-text-2);
+        border-radius: 50%;
     }
 
     #top-line #line{

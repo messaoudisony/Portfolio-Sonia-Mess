@@ -13,7 +13,6 @@
         <div class="techno-container"> <i class="techno-icon devicon-git-plain"></i> <br> <span>GIT</span></div>
         <div class="techno-container"> <i class="techno-icon devicon-vuejs-plain"></i> <br> <span>VueJS</span></div>
         <div class="techno-container"> <i class="techno-icon devicon-vuetify-line"></i> <br> <span>Vuetify</span></div>
-        <div class="techno-container"> <i class="techno-icon devicon-bootstrap-plain"></i> <br> <span>Bootstrap</span></div>
         <div class="techno-container"> <i class="techno-icon devicon-symfony-original"></i> <br> <span>Symphony</span></div>
         <div class="techno-container"> <i class="techno-icon devicon-react-original"></i> <br> <span>React</span></div>
         <div class="techno-container"> <i class="techno-icon devicon-angular-plain"></i> <br> <span>Angular</span></div>
@@ -21,6 +20,7 @@
         <div class="techno-container"> <i class="techno-icon devicon-postgresql-plain"></i> <br> <span>PostgrSql</span></div>
         <div class="techno-container"> <i class="techno-icon devicon-nuxtjs-plain"></i> <br> <span>NuxtJs</span></div>
         <div class="techno-container"> <i class="techno-icon devicon-nestjs-original"></i> <br> <span>NesJs</span></div>
+        <div class="techno-container"> <i class="techno-icon devicon-docker-plain"></i> <br> <span>Docker</span></div>
     </div>
     </div>
 
